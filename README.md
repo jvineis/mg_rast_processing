@@ -1,6 +1,6 @@
 # mg_rast_processing
 
-###Sick of struggling with the MG-RAST website and can't get the API to do what you are asking.  Here is a step by step process to pull the data that you want from MG-RAST
+### Sick of struggling with the MG-RAST website and can't get the API to do what you are asking.  Here is a step by step process to pull the data that you want from MG-RAST
 Here are the steps to generate tables for the desired data from MGRAST.
 
 Run; bash to_get_functinoal_url.shx - A VERY IMPORTANT POINT - you need to make sure that you have your own access key from MGRAST website which you can retrieve from here:
